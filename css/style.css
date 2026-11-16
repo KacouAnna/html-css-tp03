@@ -1,0 +1,48 @@
+/*Grande partie*/
+body{
+    color: #3B1F16;
+    background-color: #E4DAB9;
+}
+header{
+    text-align: center;
+}
+/*Les titres*/
+h1{
+    text-transform:capitalize ;
+}
+h2, h3{
+    font-weight:500 ;
+}
+/*Les classes*/
+.aster{
+    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.fleurs{
+    font-family: 'Times New Roman', Times, serif;
+}
+.Flower{
+    font-weight:bold ;
+}
+a{
+    text-decoration: underline;
+    color: #3B1F16;
+}
+.commande {
+    margin-top: 20px;
+}
+.banniere {
+    background-color: #654033;
+    color: #E4DAB9;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+}
+.white{
+    color: white;
+}
+/*L'id*/
+#liste{
+    font-weight: bold;
+}
